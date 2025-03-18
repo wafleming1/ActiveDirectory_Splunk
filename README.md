@@ -1,7 +1,7 @@
 <h1>Active Directory and Splunk</h1>
 <br/>
 <p align="center">
-<img src="https://i.imgur.com/2jITFf3.png" height="50%" width="50%"/> <br/> <br/> <br/>
+<img src="https://i.imgur.com/2jITFf3.png" height="60%" width="60%"/> <br/> <br/> <br/>
 </p>
 <h2>Features</h2>
 
