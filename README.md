@@ -5,12 +5,8 @@
 </p>
 
 <!--
+
 <h2>Features</h2>
-
-- <b> Generate RSA Key Pairs (2048-bit). <br/>
-- <b> Encrypt Messages using the public key and decrypts messages using the private key to retrieve the original plaintext. <br/>
-- <b> User-Friendly Interface with a Tkinter-based GUI for easy encryption/decryption. <br/>
-
 
 
 <h2>Description</h2>
