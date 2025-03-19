@@ -1,17 +1,15 @@
 <h1>Active Directory and Splunk</h1>
 <br/>
-<p align="center">
-<img src="https://i.imgur.com/2jITFf3.png" height="60%" width="60%"/> <br/> <br/> <br/>
-</p>
-
-
 
 <h2>Features</h2>
+
+<p align="center">
+<img src="https://i.imgur.com/2jITFf3.png" height="60%" width="60%"/> <br/> 
 Kali Linux - Attacker <br/>
 Windows 10 Pro - Target <br/>
 Windows Server 2022 - Domain Controller <br/>
 Ubuntu Server - Splunk Enterprise <br/>
-
+</p>
 <h2>Description</h2>
 
 - .<br/><br/>
