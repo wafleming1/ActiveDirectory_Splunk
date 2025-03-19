@@ -4,15 +4,20 @@
 <img src="https://i.imgur.com/2jITFf3.png" height="60%" width="60%"/> <br/> <br/> <br/>
 </p>
 
-<!--
+
 
 <h2>Features</h2>
-
+Kali Linux - Attacker <br/>
+Windows 10 Pro - Target <br/>
+Windows Server 2022 - Domain Controller <br/>
+Ubuntu Server - Splunk Enterprise <br/>
 
 <h2>Description</h2>
 
-- A simple GUI-based encryption and decryption tool using RSA public-key cryptography.<br/><br/>
+- .<br/><br/>
 
+
+<!--
 <p align="center">
 How It Works Step by Step <br/> <br/>
 Clicking Generate Key: <br/>
